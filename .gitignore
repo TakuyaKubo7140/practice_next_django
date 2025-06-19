@@ -1,0 +1,27 @@
+# Python関係
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+
+# Node.js/Next.js関係
+node_modules/
+.next/
+npm-debug.log
+
+# VSCodeなどエディタ系
+.vscode/
+.DS_Store
+
+# 環境変数や設定
+.env
+.env.*
